@@ -1,14 +1,12 @@
 ---
 layout: tools
-title: "scoop包管理技巧"
+title: "你需要掌握的Scoop技巧和知识"
 date:   2023-6-1
 tags: [tools]
 comments: true
 author: nekocatso
 ---
-# 你需要掌握的Scoop技巧和知识
-
-　　本文列举了Scoop各种使用技巧和相关知识。包含：
+本文列举了Scoop各种使用技巧和相关知识。包含：
 
 * Scoop 的设计与实现理念；
 * 自定义Scoop安装路径；
